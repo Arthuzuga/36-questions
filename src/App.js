@@ -42,6 +42,8 @@ const NextButton = styled.button`
     color: seashell;
     border-radius: 32px;
     padding: 0.5rem;
+    border: 2px solid seashell;
+    font-weight: 600;
 `;
 
 const generateQuestion = () => {
