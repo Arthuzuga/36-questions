@@ -24,6 +24,9 @@ const Content = styled.div`
   justify-content: space-between;
   align-items: center;
   padding: 2rem;
+  @media screen and (min-height: 600px){
+    padding: 4rem;
+  }
 `;
 
 const Question = styled.h1`
