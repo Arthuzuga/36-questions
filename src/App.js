@@ -27,8 +27,13 @@ const Content = styled.div`
 `;
 
 const Question = styled.h1`
-  font-size: 28px;
+  font-size: 24px;
   text-align: center;
+
+  @media screen and (min-width: 786px){
+  font-size: 48px;
+    
+  }
 `;
 
 const NextButton = styled.button`
