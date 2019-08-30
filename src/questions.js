@@ -39,7 +39,7 @@ const phase3 = [
     'Se você fosse morrer esta noite sem ter a oportunidade de se comunicar com ninguém, do que você se arrependeria de não ter dito? Por que você ainda não disse isso a essa pessoa?',
     'Sua casa, com tudo o que você possui, pega fogo. Depois de salvar todas as pessoas e animais, você tem tempo para uma volta final, com segurança, para salvar qualquer outro objeto. O que seria? Por quê?',
     'De todas as pessoas de sua família, a morte de quem você consideraria mais arrasadora?',
-    'Compartilhe um problema pessoal e peça o conselho de seu (sua) parceiro(a) sobre como ele(a) lidaria com isso. Também peça a seu (sua) parceiro(a) para descrever a impressão dele(a) de como você parece se sentir quando fala sobre o problema que escolheu.',
+    'Compartilhe um problema pessoal e peça o conselho de seu (sua) parceiro(a) sobre como ele(a) lidaria com isso. Também peça a ele(a) para descrever a impressão dele(a) de como você parece se sentir quando fala sobre isso.',
 ];
 
 export {
